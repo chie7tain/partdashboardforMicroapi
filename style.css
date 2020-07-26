@@ -1,0 +1,21 @@
+/* browser defaults styles resets */
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+/* style varibles */
+:root{
+  --maingTransition:all 0.3s linear;
+  --mainSpacing:0.1rem;
+  --mainBlack:#2c2c2c;
+  --mainGrey:#ececec;
+  --mainWhite:#fff;
+  --mainGreen:#0ab361;
+}
+
+body{
+  background-repeat: repeat;font-family: 'Open Sans', sans-serif;
+}
+
+
